@@ -10,8 +10,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/SURTURBOT/THANOS-PROS/",
-  "website": "https://github.com/SURTURBOT/THANOS-PRO/",
+  "repository": "https://github.com/Rishabhuki/THANOS-PROS/",
+  "website": "https://github.com/Rishabhuki/THANOS-PRO/",
   "success_url": "https://t.me/THANOSBOT_CHATS",
   "env": {
     "ENV": {
